@@ -1356,11 +1356,11 @@ $Comp
 L reef-piHat-rescue:DMMT5401-raspberrypi_hat Q1
 U 2 1 5BF71A17
 P 7150 3050
-F 0 "Q1" H 7341 3141 50  0000 L CNN
+F 0 "Q1" H 7341 2959 50  0000 L CNN
 F 1 "DMMT5401" H 7341 3050 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 7341 2959 50  0000 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 7341 3141 50  0000 L CIN
 F 3 "" H 7150 3050 50  0000 L CNN
 	2    7150 3050
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $EndSCHEMATC
