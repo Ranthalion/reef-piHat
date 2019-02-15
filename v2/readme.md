@@ -8,10 +8,12 @@ Supports
  - 2 i2c ports for ph probe modules
  - 2 ATO sensors with input protection
  - 8 channel 12v relay control via ULN2803
- - 8 GPIO breakout with input protection
+ - 8 GPIO breakout with input and output protection
 
-![alt tag](https://github.com/Ranthalion/reef-piHat/blob/v2/v2/reef-piHat-board-front.png "Board")
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-front.png "Board front")
 
-![alt tag](https://github.com/Ranthalion/reef-piHat/blob/v2/reef-piHat.svg "Schematic")
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-back.png "Board back")
 
-![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/reef-piHat-board.png "Layout")
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat.svg "Schematic")
+
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-layout.png "Layout")
