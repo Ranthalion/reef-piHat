@@ -10,9 +10,9 @@ Supports
  - 8 channel 12v relay control via ULN2803
  - 8 GPIO breakout with input and output protection
 
-![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-front.png "Board front")
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-front.jpg "Board front")
 
-![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-back.png "Board back")
+![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-board-back.jpg "Board back")
 
 ![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat.svg "Schematic")
 
