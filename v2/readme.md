@@ -17,3 +17,5 @@ Supports
 ![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat.svg "Schematic")
 
 ![alt tag](https://github.com/Ranthalion/reef-piHat/blob/master/v2/reef-piHat-layout.png "Layout")
+
+<a href="https://www.tindie.com/stores/Ranthalion/?ref=offsite_badges&utm_source=sellers_Ranthalion&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
