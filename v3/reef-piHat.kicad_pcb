@@ -5245,7 +5245,7 @@
       (xy -0.447799 4.677159)) (layer B.SilkS) (width 0.01))
   )
 
-  (module Symbol:OSHW-Logo2_7.3x6mm_SilkScreen (layer F.Cu) (tedit 0) (tstamp 5C8AF193)
+  (module Symbol:OSHW-Logo2_7.3x6mm_SilkScreen (layer F.Cu) (tedit 5C8C65AE) (tstamp 5C8AF193)
     (at 135.03402 105.24744)
     (descr "Open Source Hardware Symbol")
     (tags "Logo Symbol OSHW")
@@ -5253,7 +5253,7 @@
     (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value OSHW-Logo2_7.3x6mm_SilkScreen (at 0.75 0) (layer F.Fab) hide
+    (fp_text value OSHW-Logo (at 0.75 0) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_poly (pts (xy 0.10391 -2.757652) (xy 0.182454 -2.757222) (xy 0.239298 -2.756058) (xy 0.278105 -2.753793)
